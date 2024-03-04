@@ -1,0 +1,291 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+EyeClinic_Alpha
+</name>
+</assembly>
+<members>
+<member name="T:EyeClinic_Alpha.DataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:EyeClinic_Alpha.DataSet1.ec_salesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:EyeClinic_Alpha.DataSet1.ec_stockinDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:EyeClinic_Alpha.DataSet1.ec_usersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:EyeClinic_Alpha.DataSet1.ec_servicesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:EyeClinic_Alpha.DataSet1.ec_salesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:EyeClinic_Alpha.DataSet1.ec_stockinRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:EyeClinic_Alpha.DataSet1.ec_usersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:EyeClinic_Alpha.DataSet1.ec_servicesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:EyeClinic_Alpha.DataSet1.ec_salesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:EyeClinic_Alpha.DataSet1.ec_stockinRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:EyeClinic_Alpha.DataSet1.ec_usersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:EyeClinic_Alpha.DataSet1.ec_servicesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:EyeClinic_Alpha.DataSet2">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:EyeClinic_Alpha.DataSet2.inventory_reportDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:EyeClinic_Alpha.DataSet2.inventory_reportRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:EyeClinic_Alpha.DataSet2.inventory_reportRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:EyeClinic_Alpha.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:EyeClinic_Alpha.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:EyeClinic_Alpha.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:EyeClinic_Alpha.My.Resources.Resources._342035034_715918130284326_374785799465157480_n">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EyeClinic_Alpha.My.Resources.Resources._next">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EyeClinic_Alpha.My.Resources.Resources.add">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EyeClinic_Alpha.My.Resources.Resources.arrow_100_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EyeClinic_Alpha.My.Resources.Resources.arrow_213_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EyeClinic_Alpha.My.Resources.Resources.arrow_28_24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EyeClinic_Alpha.My.Resources.Resources.arrow_92_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EyeClinic_Alpha.My.Resources.Resources.arrow_92_24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EyeClinic_Alpha.My.Resources.Resources.arrow_down_sign_to_navigate">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EyeClinic_Alpha.My.Resources.Resources.cross">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EyeClinic_Alpha.My.Resources.Resources.deadline">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EyeClinic_Alpha.My.Resources.Resources.exclude">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EyeClinic_Alpha.My.Resources.Resources.eye_drop">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EyeClinic_Alpha.My.Resources.Resources.eye_drop__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EyeClinic_Alpha.My.Resources.Resources.eye_test">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EyeClinic_Alpha.My.Resources.Resources.Female_peep_standing_8">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EyeClinic_Alpha.My.Resources.Resources.Group_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EyeClinic_Alpha.My.Resources.Resources.Group_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EyeClinic_Alpha.My.Resources.Resources.Illustration___Female_peep_standing_14">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EyeClinic_Alpha.My.Resources.Resources.main_menu">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EyeClinic_Alpha.My.Resources.Resources.main_menu__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EyeClinic_Alpha.My.Resources.Resources.Medical__profession___doctor__hospital__healthcare__health__man__care__report__treatment">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EyeClinic_Alpha.My.Resources.Resources.Medical__profession___doctor__hospital__healthcare__health__man__care__report__treatment__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EyeClinic_Alpha.My.Resources.Resources.menu">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EyeClinic_Alpha.My.Resources.Resources.Mind_logo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EyeClinic_Alpha.My.Resources.Resources.opticalcenter">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EyeClinic_Alpha.My.Resources.Resources.picture">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EyeClinic_Alpha.My.Resources.Resources.png_clipart_logo_optometry_eye_care_professional_organization_others_miscellaneous_lens">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EyeClinic_Alpha.My.Resources.Resources.right_arrow">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EyeClinic_Alpha.My.Resources.Resources.ROQUE_Eye_Clinic_is_the_ophthalmology_practice_that_provide_a_full_spectrum_of_eye_care_services_for_adults_and_children_in_Binangonan__Rizal___1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EyeClinic_Alpha.My.Resources.Resources.surface1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EyeClinic_Alpha.My.Resources.Resources.test_image">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EyeClinic_Alpha.My.Resources.Resources.TEST_YOUR_VISION">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EyeClinic_Alpha.My.Resources.Resources.TESTPHOTO2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EyeClinic_Alpha.My.Resources.Resources.user">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EyeClinic_Alpha.My.Resources.Resources.x_mark_24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

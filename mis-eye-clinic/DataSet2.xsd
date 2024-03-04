@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet2" targetNamespace="http://tempuri.org/DataSet2.xsd" xmlns:mstns="http://tempuri.org/DataSet2.xsd" xmlns="http://tempuri.org/DataSet2.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet2" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet2" msprop:Generator_UserDSName="DataSet2">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="inventory_report" msprop:Generator_TableClassName="inventory_reportDataTable" msprop:Generator_TableVarName="tableinventory_report" msprop:Generator_TablePropName="inventory_report" msprop:Generator_RowDeletingName="inventory_reportRowDeleting" msprop:Generator_RowChangingName="inventory_reportRowChanging" msprop:Generator_RowEvHandlerName="inventory_reportRowChangeEventHandler" msprop:Generator_RowDeletedName="inventory_reportRowDeleted" msprop:Generator_UserTableName="inventory_report" msprop:Generator_RowChangedName="inventory_reportRowChanged" msprop:Generator_RowEvArgName="inventory_reportRowChangeEvent" msprop:Generator_RowClassName="inventory_reportRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="productcode" msprop:Generator_ColumnVarNameInTable="columnproductcode" msprop:Generator_ColumnPropNameInRow="productcode" msprop:Generator_ColumnPropNameInTable="productcodeColumn" msprop:Generator_UserColumnName="productcode" type="xs:string" minOccurs="0" />
+              <xs:element name="brandname" msprop:Generator_ColumnVarNameInTable="columnbrandname" msprop:Generator_ColumnPropNameInRow="brandname" msprop:Generator_ColumnPropNameInTable="brandnameColumn" msprop:Generator_UserColumnName="brandname" type="xs:string" minOccurs="0" />
+              <xs:element name="genericname" msprop:Generator_ColumnVarNameInTable="columngenericname" msprop:Generator_ColumnPropNameInRow="genericname" msprop:Generator_ColumnPropNameInTable="genericnameColumn" msprop:Generator_UserColumnName="genericname" type="xs:string" minOccurs="0" />
+              <xs:element name="sub_name" msprop:Generator_ColumnVarNameInTable="columnsub_name" msprop:Generator_ColumnPropNameInRow="sub_name" msprop:Generator_ColumnPropNameInTable="sub_nameColumn" msprop:Generator_UserColumnName="sub_name" type="xs:string" minOccurs="0" />
+              <xs:element name="RemainingStock" msprop:Generator_ColumnVarNameInTable="columnRemainingStock" msprop:Generator_ColumnPropNameInRow="RemainingStock" msprop:Generator_ColumnPropNameInTable="RemainingStockColumn" msprop:Generator_UserColumnName="RemainingStock" type="xs:short" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
